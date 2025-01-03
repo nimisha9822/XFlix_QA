@@ -80,9 +80,4 @@ XFlix_Automation/
 
 ---
 
-## Notes
-
-- Ensure the required browser driver is compatible with the browser version in use.
-- Keep the test data up-to-date in the `TestDataLoader.java` file.
-- The `VerifyLikeCounterFunctionalityTest.java` ensures that like states are preserved across tabs and sessions.
 
